@@ -1,0 +1,1 @@
+console.log("これが見えたらOK");
